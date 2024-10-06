@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Needit">6bd6014e8309121036d4f7b6feaad364</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_58872_needit_needit">due_date&lt;javascript:gs.beginningOfToday()^EQ<item endquery="false" field="due_date" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Show Past Due NeedIt records</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Past Due</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-06 04:15:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c6a01828349121036d4f7b6feaad304</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Past Due</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_4c6a01828349121036d4f7b6feaad304</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-06 04:19:09</sys_updated_on>
+        <timeline_page/>
+        <title>Past Due</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a514ebcfdb9dc694ebdd2a5913961918</instance_id>
+        <instance_name>dev256534</instance_name>
+        <name>sys_app_module_4c6a01828349121036d4f7b6feaad304</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Needit">6bd6014e8309121036d4f7b6feaad364</application><assessment/><device_type/><filter table="x_58872_needit_needit">due_date&lt;javascript:gs.beginningOfToday()^EQ<item endquery="false" field="due_date" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:gs.beginningOfToday()"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>Show Past Due NeedIt records</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Past Due</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-06 04:15:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4c6a01828349121036d4f7b6feaad304</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Past Due</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_4c6a01828349121036d4f7b6feaad304</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-06 04:19:09</sys_updated_on><timeline_page/><title>Past Due</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1859776554</payload_hash>
+        <record_name>Past Due</record_name>
+        <reverted_from/>
+        <source>673609ca8309121036d4f7b6feaad352</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-06 04:19:09</sys_created_on>
+        <sys_id>d17b09c28349121036d4f7b6feaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192600d7c000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-06 04:19:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>997b09c2df491210d4de4aa48828fd10</update_guid>
+        <update_guid_history>997b09c2df491210d4de4aa48828fd10:1859776554,af1bcd829649121083870d302fe1ffdd:1237389002,f4aa8902da4912107dd9bf230b40cc71:2074361475</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Past Due">192c85068349121036d4f7b6feaad304</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-06 04:22:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>784aef356efa4959a5c2bc7480d9be89</sys_id>
+        <sys_metadata>4c6a01828349121036d4f7b6feaad304</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Past Due</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_4c6a01828349121036d4f7b6feaad304</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4c6a01828349121036d4f7b6feaad304">d17b09c28349121036d4f7b6feaad311</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-06 04:22:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
